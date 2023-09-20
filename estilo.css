@@ -1,0 +1,11 @@
+article {
+    border-style: double;   
+}
+
+img {
+    margin-inline: 25%;
+    clip-path: circle();
+}
+body {
+    background-color: rgb(16, 222, 236)
+}
