@@ -3,7 +3,7 @@ article {
 }
 
 img {
-    margin-inline: 25%;
+    
     clip-path: circle();
 }
 body {
